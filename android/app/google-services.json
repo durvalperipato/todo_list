@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "841700513470",
+    "project_id": "todo-list-provider-durval",
+    "storage_bucket": "todo-list-provider-durval.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841700513470:android:efc77234aabfcf614730ef",
+        "android_client_info": {
+          "package_name": "com.example.todo_list"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841700513470-k0vh902j031r9ik1hsvsvj036fgqun95.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.todo_list",
+            "certificate_hash": "8970c56379ddcbf4756f4e57c6e3b1fda71c3e73"
+          }
+        },
+        {
+          "client_id": "841700513470-cbg8vmoes7ti7piomhm6u7gjm0ev2una.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT1edrNmTn6jj8Itxb9G7zUDu95p2cAmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841700513470-cbg8vmoes7ti7piomhm6u7gjm0ev2una.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
